@@ -1,0 +1,16 @@
+{
+    "filename": "waystones-neoforge-26.1.2-26.1.2.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "7c411058477250fb48c4359b81fafe2f358a2121",
+        "sha512": "89699312b7b3757ce90c718ff051d2617e5c4a28922c4cf258deb141ab8d2edb2f929b30784c3bbb5f71c2badc0a9848af2fc51d8d471810b88ee88c813bf018",
+        "murmur2": 2476448817
+    },
+    "fileSize": 842309,
+    "sources": {
+        "modrinth": {
+            "projectId": "LOpKHB2A",
+            "fileUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/FzL1odRG/waystones-neoforge-26.1.2-26.1.2.4.jar"
+        }
+    }
+}

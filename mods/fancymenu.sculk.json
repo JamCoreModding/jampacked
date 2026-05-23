@@ -1,0 +1,16 @@
+{
+    "filename": "fancymenu_neoforge_3.9.1_MC_26.1.1-26.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6690620c2c30eacc7adcdb13b3c5a61c8dce5821",
+        "sha512": "9c367e70ff7b3d580a36734b3c84a55dc8be27ccb0bc1f83d36b09874b491c8e87b149421565a0050baed9b5558ea86fcb096eac0a81ccbb8b2efdfefcf192ec",
+        "murmur2": 3400914980
+    },
+    "fileSize": 25492787,
+    "sources": {
+        "modrinth": {
+            "projectId": "Wq5SjeWM",
+            "fileUrl": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ScHs0UzL/fancymenu_neoforge_3.9.1_MC_26.1.1-26.1.2.jar"
+        }
+    }
+}

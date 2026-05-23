@@ -1,0 +1,16 @@
+{
+    "filename": "jamlib-neoforge-2.0.0+26.1.x.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "28e590b5adeee8ee0d41aaedb151663b4cc8e8e3",
+        "sha512": "0ce304e97ebc9dc41bf4ff16b5ba0cd16b65ee912518e10fea03d2f0f5d6e4e951c331b497ec2a7c8729912280eceebcf2afad10dd953c429b05f98cbfcc842a",
+        "murmur2": 1966333519
+    },
+    "fileSize": 211262,
+    "sources": {
+        "modrinth": {
+            "projectId": "IYY9Siz8",
+            "fileUrl": "https://cdn.modrinth.com/data/IYY9Siz8/versions/8XLXjgeO/jamlib-neoforge-2.0.0%2B26.1.x.jar"
+        }
+    }
+}

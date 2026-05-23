@@ -1,0 +1,16 @@
+{
+    "filename": "sound-physics-remastered-neoforge-1.5.1+26.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f56a6271b0ed1c7a1d706486acd7857155bb1132",
+        "sha512": "73b447cd52559b94885a2ba7081f213d38020b4c6fdb7489af39323ebffe2fdea3a675e4255edcfc74f53b56ef5fe0ec153bd4bdf144509de32a5249d9ca1c12",
+        "murmur2": 3524718630
+    },
+    "fileSize": 201584,
+    "sources": {
+        "modrinth": {
+            "projectId": "qyVF9oeo",
+            "fileUrl": "https://cdn.modrinth.com/data/qyVF9oeo/versions/fJhWavsR/sound-physics-remastered-neoforge-1.5.1%2B26.1.2.jar"
+        }
+    }
+}

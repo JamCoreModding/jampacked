@@ -1,0 +1,16 @@
+{
+    "filename": "CutThrough-v26.1.0-mc26.1.x-NeoForge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6985471864408158d2fe0639a3d93505e1abfc0f",
+        "sha512": "309d1ea6d78412856e91796d6301870304b4ea05a0218e522c6a2da5961b7d98b16b3975816c5ff9a3fea46d819ece895e141e34b988a7ba9b022e9ac37f2c43",
+        "murmur2": 984076101
+    },
+    "fileSize": 25787,
+    "sources": {
+        "modrinth": {
+            "projectId": "Dk6su9JN",
+            "fileUrl": "https://cdn.modrinth.com/data/Dk6su9JN/versions/CyWu1ySk/CutThrough-v26.1.0-mc26.1.x-NeoForge.jar"
+        }
+    }
+}

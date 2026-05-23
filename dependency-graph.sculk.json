@@ -1,1 +1,23 @@
-{}
+{
+    "mods/shogi.sculk.json": [
+        "mods/waystones.sculk.json"
+    ],
+    "mods/melody.sculk.json": [
+        "mods/fancymenu.sculk.json"
+    ],
+    "mods/balm.sculk.json": [
+        "mods/waystones.sculk.json"
+    ],
+    "mods/mru.sculk.json": [
+        "mods/sound.sculk.json"
+    ],
+    "mods/konkrete.sculk.json": [
+        "mods/fancymenu.sculk.json"
+    ],
+    "mods/puzzles-lib.sculk.json": [
+        "mods/cut-through.sculk.json"
+    ],
+    "mods/jamlib.sculk.json": [
+        "mods/rightclickharvest.sculk.json"
+    ]
+}

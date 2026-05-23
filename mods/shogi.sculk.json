@@ -1,0 +1,16 @@
+{
+    "filename": "shogi-neoforge-26.1.2-26.1.2.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b94efc712aa49ce8fb3ff8a058f01a6f075a5d70",
+        "sha512": "55679b81eb5a798a280c72b58b3c9779ad17111f0738b3d1f54986c432eda171f4c56d14d80283d0820e7e93999ae85556f63e875b5a5724cb01f6d3e30dd54f",
+        "murmur2": 3066958312
+    },
+    "fileSize": 387511,
+    "sources": {
+        "modrinth": {
+            "projectId": "bi4iCmsw",
+            "fileUrl": "https://cdn.modrinth.com/data/bi4iCmsw/versions/3tQVPhVx/shogi-neoforge-26.1.2-26.1.2.4.jar"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "filename": "melody_neoforge_1.0.16_MC_26.1.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "293746acacd4bab10a429d157f248116872b2b5c",
+        "sha512": "27c910de06cf61aa82036ec1e9a8fab7efdffe5dc4597fb17868eec9de27766b9912b46c7c9eace1cf4277012bc84ad2cc8b9d789e01afd532ba819306f2fa3e",
+        "murmur2": 4006629022
+    },
+    "fileSize": 47054,
+    "sources": {
+        "modrinth": {
+            "projectId": "CVT4pFB2",
+            "fileUrl": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lKAVENRI/melody_neoforge_1.0.16_MC_26.1.1.jar"
+        }
+    }
+}

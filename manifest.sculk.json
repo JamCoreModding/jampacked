@@ -31,6 +31,78 @@
         {
             "path": "mods/modernfix.sculk.json",
             "sha256": "4afe0e5f58f23e7a9686febdb72518ff021d97be012a934adc274e6c2f1c50a1"
+        },
+        {
+            "path": "mods/fancymenu.sculk.json",
+            "sha256": "536daf2010091c4647f302c7f4a94d055abd9ec677a513dfde669d5c77e3b120"
+        },
+        {
+            "path": "mods/konkrete.sculk.json",
+            "sha256": "805e29be3ac0b13314a3bb0607b17ad08e71b80b94d430ec239b6e4846db0f14"
+        },
+        {
+            "path": "mods/melody.sculk.json",
+            "sha256": "0eaae5ece6d8020f2e04d7088d18665ba47599328aca938b34ff93033d9d82a1"
+        },
+        {
+            "path": "mods/bisect-mod.sculk.json",
+            "sha256": "3a2cbd2ab06ed48e1e1fe4e903fb44b6b28d91186cbac9eded6c6fe213832f01"
+        },
+        {
+            "path": "mods/sound-physics-remastered.sculk.json",
+            "sha256": "3a369e3d63b45027a989a30d31b5ac98140a773183147d4d567c0251702b5456"
+        },
+        {
+            "path": "mods/cloth-config.sculk.json",
+            "sha256": "5e7970c7e576993d7fb9aa887ecb0fb279bcaae4ae37a9614a20d3b85fc0ef2e"
+        },
+        {
+            "path": "mods/distanthorizons.sculk.json",
+            "sha256": "b9cde32aa82051adf6c15c390db7070175aeff026addab09d69caaab724ff7db"
+        },
+        {
+            "path": "mods/rightclickharvest.sculk.json",
+            "sha256": "c65af31a665cdba94e090d0b36c927cbbe8b4b01184cddff56aed900a368e8b9"
+        },
+        {
+            "path": "mods/jamlib.sculk.json",
+            "sha256": "7c7836d90939c87c6a3538ea79f12c2d233ddbce494fad520aa351cd1bb228fa"
+        },
+        {
+            "path": "mods/waystones.sculk.json",
+            "sha256": "40f6ee1091e31b1cca3f8a7e3be4d7f54b4ad58a4f4bbe66552df277aea148e6"
+        },
+        {
+            "path": "mods/balm.sculk.json",
+            "sha256": "85076c6db95f6881da21c17cd70d23d035ab499b91d00cdf56ff34347493ec1f"
+        },
+        {
+            "path": "mods/shogi.sculk.json",
+            "sha256": "c9f506ff30cb1b1c2dfc65c4597e62238e8f6a13c426f1aa798dc33fd4cc3aac"
+        },
+        {
+            "path": "mods/cut-through.sculk.json",
+            "sha256": "9eb5e40c1255111a8bba8f97c05796c5e669cbb0b58a970b57bdb82a30ec05ab"
+        },
+        {
+            "path": "mods/puzzles-lib.sculk.json",
+            "sha256": "5ee2ac3999df0c18ffc888d02f9ef4c2e4e63a4a47d4023df1d28fb20669164b"
+        },
+        {
+            "path": "mods/sound.sculk.json",
+            "sha256": "f901676b6ebadf0f489414bb358ed902ef130967c65006600e4a85109f3f00b6"
+        },
+        {
+            "path": "mods/mru.sculk.json",
+            "sha256": "5afc89d44fcc50270904bd96a6885256e6bb87619076ac92fd7f0f3238211070"
+        },
+        {
+            "path": "mods/fallingtree.sculk.json",
+            "sha256": "468bdf043c0f90bcc43ee4095df94fa3f9df1474ebb46a991dfbb1e0da85509b"
+        },
+        {
+            "path": "mods/trade-cycling.sculk.json",
+            "sha256": "3c5c64d8f55c3e1306ad5e89c9e7f9e2da016ea01bcc90fd6d62e7c668e083d0"
         }
     ],
     "files": []

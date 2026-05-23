@@ -1,0 +1,16 @@
+{
+    "filename": "BHMenu-NeoForge-26.1-2.4.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "8b27285c0ef7178dbbca845c4a69de56160ee392",
+        "sha512": "295df3ea9a855710de40a960e99d4d2f9997f2610742a62441a9045ff4e512ad343edf4c2559f11b5c1e3efabad6d91e25405edacd072a03cec90f49775ce741",
+        "murmur2": 1163214137
+    },
+    "fileSize": 171757,
+    "sources": {
+        "modrinth": {
+            "projectId": "yWSAtnfH",
+            "fileUrl": "https://cdn.modrinth.com/data/yWSAtnfH/versions/lhJ7xU8k/BHMenu-NeoForge-26.1-2.4.4.jar"
+        }
+    }
+}
