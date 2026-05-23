@@ -1,0 +1,5 @@
+README.md
+LICENSE
+*.mrpack
+*.zip
+.github/workflows/check.yml

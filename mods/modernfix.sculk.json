@@ -1,0 +1,16 @@
+{
+    "filename": "modernfix-neoforge-5.27.12+mc26.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "255510da06f45da2d44a380d975fa77c5b570be1",
+        "sha512": "0b3e3cf762c7e594c74d3b7a24af070f916c4ef5a788aec1fb6c66d242b7872c33aa8ef58985cde1c4cf71bfe742e89494e9c95363c2fd3679bcb76b370a6790",
+        "murmur2": 3538027304
+    },
+    "fileSize": 472967,
+    "sources": {
+        "modrinth": {
+            "projectId": "nmDcB62a",
+            "fileUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/51lrbpoY/modernfix-neoforge-5.27.12%2Bmc26.1.2.jar"
+        }
+    }
+}

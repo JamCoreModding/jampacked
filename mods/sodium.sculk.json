@@ -1,0 +1,16 @@
+{
+    "filename": "sodium-neoforge-0.8.12+mc26.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b6552c1263548556f9e59dd8a391caf54c1d2213",
+        "sha512": "095aabfe237493e3c7d377cd063133ec0becada8f482818895338923ca79f798ecb09537b44f4fb68844c8032a64482efca688d71c9a3c57d43d736772e47e59",
+        "murmur2": 1548130752
+    },
+    "fileSize": 1144237,
+    "sources": {
+        "modrinth": {
+            "projectId": "AANobbMI",
+            "fileUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/775xoFNg/sodium-neoforge-0.8.12%2Bmc26.1.2.jar"
+        }
+    }
+}

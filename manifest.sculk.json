@@ -1,0 +1,37 @@
+{
+    "formatVersion": "1.1",
+    "name": "Jampacked",
+    "version": "1.0.0",
+    "minecraft": "26.1.2",
+    "loader": {
+        "type": "neoforge",
+        "version": "26.1.2.64-beta"
+    },
+    "manifests": [
+        {
+            "path": "mods/sodium.sculk.json",
+            "sha256": "80f40510211d39aa2dff1a1f969c32c17b52d4f46d727fd3d520fc6867c9ba11"
+        },
+        {
+            "path": "mods/iris.sculk.json",
+            "sha256": "a285142e216522a6a4170fe433e6620ea612b2e7ff756fece042d7d18d9ec46a"
+        },
+        {
+            "path": "mods/lithium.sculk.json",
+            "sha256": "2e48bfab6621d63b8b01979b7120c071f9b5cd075ea1c229a889a0980d9951fe"
+        },
+        {
+            "path": "mods/immediatelyfast.sculk.json",
+            "sha256": "31cc8d1a48f9ab3a42a94e8840e1d3dcb0db203591f785dab790bd7f2e568dbd"
+        },
+        {
+            "path": "mods/appleskin.sculk.json",
+            "sha256": "248897dc20481be9faf09a6099229be7b59f1a4d40c32bad70f459274618f118"
+        },
+        {
+            "path": "mods/modernfix.sculk.json",
+            "sha256": "4afe0e5f58f23e7a9686febdb72518ff021d97be012a934adc274e6c2f1c50a1"
+        }
+    ],
+    "files": []
+}

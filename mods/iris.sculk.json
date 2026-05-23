@@ -1,0 +1,16 @@
+{
+    "filename": "iris-neoforge-1.10.9+mc26.1.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e906a2fc794e38a3d13ea7f808b7c3e57be1dcea",
+        "sha512": "8e9ec8ebaca44291b9e41820de04ef872d8716a0205348eb40d8cac6ddfe93a792ab5a07a57232ddf0a1b8149e6c653fe6e39b9cc3f00ad578a845cc55fb6be6",
+        "murmur2": 765583309
+    },
+    "fileSize": 2737623,
+    "sources": {
+        "modrinth": {
+            "projectId": "YL57xq9U",
+            "fileUrl": "https://cdn.modrinth.com/data/YL57xq9U/versions/YEGDGnJM/iris-neoforge-1.10.9%2Bmc26.1.1.jar"
+        }
+    }
+}
