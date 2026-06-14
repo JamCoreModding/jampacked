@@ -1,15 +1,15 @@
 {
-    "filename": "yet_another_config_lib_v3-3.9.4+26.1-neoforge.jar",
+    "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
     "side": "both",
-    "fileSize": 1115875,
+    "fileSize": 1118651,
     "sources": {
         "modrinth": {
             "projectId": "1eAoo2KR",
-            "fileUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/ClVlCJ5t/yet_another_config_lib_v3-3.9.4%2B26.1-neoforge.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
             "hashes": {
-                "sha1": "56ebb70b88ede97ff92d1d62688d622e178769dc",
-                "sha512": "3074cd23329cfe24967e4e4889683fa7d255889a2ee3e8f6bb945c45e6a73bc87d8a02dda29f1543d8493265fab2ceb67c1a2d7421ef57d60c2ea04b1bd3b5f4",
-                "murmur2": 1713642392
+                "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+                "sha512": "583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48",
+                "murmur2": 1474701975
             }
         }
     }

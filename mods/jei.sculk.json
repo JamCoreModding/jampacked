@@ -1,15 +1,15 @@
 {
-    "filename": "jei-26.1.2-neoforge-29.6.2.31.jar",
+    "filename": "jei-1.21.1-neoforge-19.27.0.340.jar",
     "side": "both",
-    "fileSize": 1499131,
+    "fileSize": 1529391,
     "sources": {
         "modrinth": {
             "projectId": "u6dRKJwZ",
-            "fileUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/wDRsIpv2/jei-26.1.2-neoforge-29.6.2.31.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar",
             "hashes": {
-                "sha1": "f6e2cbdbda2110c29004efab9baa5fe4198447cb",
-                "sha512": "8222923736f4084625deeb6704244fe39e7fbf8003db54bc4f8174e1d3b47da586d4825237db3417c3cfef2d10d483c59cb7af353f24b1195a271125291bc126",
-                "murmur2": 111153070
+                "sha1": "27d0d85e7e32e926fc3664ab6815df5cdabb7941",
+                "sha512": "8bad8eb3c8e974f867e23e4d74598f603c5fbf03eb5356a386dd37cb9fa23e08ad1f58be6b7be50d2fbf9d3fbfaeac8584c70ced736df4b8f82c7c75be242998",
+                "murmur2": 828156772
             }
         }
     }

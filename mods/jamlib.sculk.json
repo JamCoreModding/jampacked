@@ -1,15 +1,15 @@
 {
-    "filename": "jamlib-neoforge-2.3.0+26.1.x.jar",
+    "filename": "jamlib-neoforge-1.3.6+1.21.1.jar",
     "side": "both",
-    "fileSize": 269647,
+    "fileSize": 188553,
     "sources": {
         "modrinth": {
             "projectId": "IYY9Siz8",
-            "fileUrl": "https://cdn.modrinth.com/data/IYY9Siz8/versions/VrJKxbI9/jamlib-neoforge-2.3.0%2B26.1.x.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/IYY9Siz8/versions/n6UM6TcS/jamlib-neoforge-1.3.6%2B1.21.1.jar",
             "hashes": {
-                "sha1": "70107d4d8d10d650463af90f15c5d900a2607e19",
-                "sha512": "b6590210564981ac16980253bc7b6647abf470bbd079154042b452d4c6304488706076495207a5212ff20fe8542b67cf0cce2e360493c29f1a107cd755b8daa8",
-                "murmur2": 1046176799
+                "sha1": "0e422dd29b3f82eaf2a450a0370ace82b8d00f82",
+                "sha512": "c544322a31b5f3fe045cf80eb39e6bd59f91f209a0e510731daa0a6403a273f582769bb26277ef767b4c1ca6438316959d31a6a08e5aa4b1b5a9184a370e5135",
+                "murmur2": 1725277833
             }
         }
     }

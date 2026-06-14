@@ -1,15 +1,15 @@
 {
-    "filename": "fancymenu_neoforge_3.9.1_MC_26.1.1-26.1.2.jar",
+    "filename": "fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
     "side": "both",
-    "fileSize": 25492787,
+    "fileSize": 25346355,
     "sources": {
         "modrinth": {
             "projectId": "Wq5SjeWM",
-            "fileUrl": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ScHs0UzL/fancymenu_neoforge_3.9.1_MC_26.1.1-26.1.2.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/E22W2MsG/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
             "hashes": {
-                "sha1": "6690620c2c30eacc7adcdb13b3c5a61c8dce5821",
-                "sha512": "9c367e70ff7b3d580a36734b3c84a55dc8be27ccb0bc1f83d36b09874b491c8e87b149421565a0050baed9b5558ea86fcb096eac0a81ccbb8b2efdfefcf192ec",
-                "murmur2": 3400914980
+                "sha1": "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34",
+                "sha512": "832167baa1bbf5938a6a9be67925bc491aa35b1b83b89a16ae83ddfcfecfc3d78c56b2e599b65a4f430e87cc20f8366251f5041b0f0277014b0ae1a5f66be55c",
+                "murmur2": 416362275
             }
         }
     }

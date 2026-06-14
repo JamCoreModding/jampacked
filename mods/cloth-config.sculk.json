@@ -1,15 +1,15 @@
 {
-    "filename": "cloth-config-26.1.154.jar",
+    "filename": "cloth-config-15.0.140-neoforge.jar",
     "side": "both",
-    "fileSize": 1135993,
+    "fileSize": 1163890,
     "sources": {
         "modrinth": {
             "projectId": "9s6osm5g",
-            "fileUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/TimoYzse/cloth-config-26.1.154.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
             "hashes": {
-                "sha1": "1700599980477b0ea72608bfdadee7bdde8b9b75",
-                "sha512": "b3084e992459c211617bf5247a94b93c06823277932341e7cec98602a6c6e21ca599aae5e552868ae7a60aac6ec33f3a9cee11615667470483948b3e349d3caf",
-                "murmur2": 2657190333
+                "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+                "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d",
+                "murmur2": 1440957232
             }
         }
     }

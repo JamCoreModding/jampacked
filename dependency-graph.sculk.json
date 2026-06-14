@@ -1,7 +1,4 @@
 {
-    "mods/shogi.sculk.json": [
-        "mods/waystones.sculk.json"
-    ],
     "mods/melody.sculk.json": [
         "mods/fancymenu.sculk.json",
         "mods/fancymenu.sculk.json"

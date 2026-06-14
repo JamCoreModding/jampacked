@@ -1,15 +1,15 @@
 {
-    "filename": "sounds-2.5.0+lts+26.1.2-neoforge.jar",
+    "filename": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
     "side": "both",
-    "fileSize": 8914790,
+    "fileSize": 8732437,
     "sources": {
         "modrinth": {
             "projectId": "ZouiUX7t",
-            "fileUrl": "https://cdn.modrinth.com/data/ZouiUX7t/versions/z5WcXu53/sounds-2.5.0%2Blts%2B26.1.2-neoforge.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
             "hashes": {
-                "sha1": "9cc1bab2709351dcf77c5efdf8f323afd4c50f90",
-                "sha512": "eb3540cf0e03b5f51e71d54c93796c1c0a18b699590c4da6480e7d2be1d8307d276a3864787c85e97bb21b6c3fa33953bfafc3843b3905ea548190cb11a9f84c",
-                "murmur2": 1252097531
+                "sha1": "cbfa42a31515e1bac4bafcdd974fbba29b7d106a",
+                "sha512": "0dbfe1cd74be45241c5e95354e6466af10cb50ce780d87672337bd4de03fa708dc56eb013040bb2a02a941cf19b2b282385c6a5305695a4de3534627c645f053",
+                "murmur2": 303899233
             }
         }
     }

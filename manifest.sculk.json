@@ -2,135 +2,131 @@
     "formatVersion": "1.1",
     "name": "Jampacked",
     "version": "1.0.0",
-    "minecraft": "26.1.2",
+    "minecraft": "1.21.1",
     "loader": {
         "type": "neoforge",
-        "version": "26.1.2.64-beta"
+        "version": "21.1.233"
     },
     "manifests": [
         {
             "path": "mods/appleskin.sculk.json",
-            "sha256": "3e1da04940ea70ed6e3b7d7e4d718ddf10966ce412db548a34cb907eada9feb3"
+            "sha256": "5525871569ade8817d4a7901b1d8a63f92eee07a09e811b8a2d44d0feaaafbda"
         },
         {
             "path": "mods/balm.sculk.json",
-            "sha256": "ab42ae20bdf0f48c63de176ae653b3900eddb08ea6ba99652e8f25882a51678b"
+            "sha256": "d79307ac89a8a09dd0b47f1a03fd65acd279e59c5915f8b6c7d2412d2f289a70"
         },
         {
             "path": "mods/bisect-mod.sculk.json",
-            "sha256": "123201a052543ecbfb747dafce9e45c5e3894021ec76c119ee7c9a83aa08686e"
+            "sha256": "550a6d7e704903503cb0d36da6d366eb223d38b57a4dd8bc8e6c0d3b10a6eb12"
         },
         {
             "path": "mods/cloth-config.sculk.json",
-            "sha256": "169f18fde2796cf6c3ffe01453cc2e006877f1fccb2fba4cccb85197e8319050"
+            "sha256": "8beb1e7e4d5df7c3d72ea7182a1dc6aea97eb129b950f36ae455a15a20ee9429"
         },
         {
             "path": "mods/cut-through.sculk.json",
-            "sha256": "ce57105b1f30c601ad9988c837df563e0c8b17654ae7093f308fd60d7dd7660f"
+            "sha256": "8cc02f3e1e58b5155c5c5966efe8e5aea272d8f11a05c6bfb5bbd64d3ffd301c"
         },
         {
             "path": "mods/puzzles-lib.sculk.json",
-            "sha256": "31e4968b4bf195244fbf8cd5a0d8705e581cbedcee7a8e41aadc58aa55373404"
+            "sha256": "e47e10be2caeab65bfca99eae99cd6bc074805c9eb9263aea7c38896358d60a2"
         },
         {
             "path": "mods/distanthorizons.sculk.json",
-            "sha256": "9351102f02f8a8e7c402bd0f01a01c1668cf4f98e8881df88db1ae58a9a5896e"
+            "sha256": "6842f1fb5f0966e983ccaf9386afded06524ed378e4590e70cae09df07ae17f6"
         },
         {
             "path": "mods/fallingtree.sculk.json",
-            "sha256": "7a2f5793772b6ae741f51c3b8373fa96ded38747419bc8da15dbd59df3d04df6"
+            "sha256": "b7e3de3921e6c6bc247a95a3af51cacddf638eceeee8e71dc5cf6a492a975704"
         },
         {
             "path": "mods/fancymenu.sculk.json",
-            "sha256": "bd4ebb731b2d01ce2d39fd2576e1efad97f240814390a9fc84ad5087606cd141"
+            "sha256": "deeea455c66b11cb589ca0e3b6d8282f8a880c40c69509f1c9cba810732a8914"
         },
         {
             "path": "mods/konkrete.sculk.json",
-            "sha256": "6c6c136f396c699bccbb8c3b0b07f67ff1979ad3c3ff1b4cbd32e8f04725c17a"
+            "sha256": "c52c2947f282c5171b8ff5791827d835f34a7e43955009a8c18709e155c4efb1"
         },
         {
             "path": "mods/melody.sculk.json",
-            "sha256": "40d4c7ededff8f7368ecbf96205ad5fcab1fa55062bd859de62b478cf43dcfc8"
+            "sha256": "112e0ed39a4e5261239ba965e3da6c9a87d30c48e620755b325417a7a2b544dd"
         },
         {
             "path": "mods/immediatelyfast.sculk.json",
-            "sha256": "041051957b8ebc6bf31e22adb1109453fedc7c6d3dcedaadb52dc0a5388a1bdc"
+            "sha256": "4161312601247b816961d9c108022632d2d5f11c395ede965f0fe1b43a4c3a88"
         },
         {
             "path": "mods/iris.sculk.json",
-            "sha256": "8c09b4a8e6cc6dc56a3ea3bbbfb86c79948d8aa034fd39322200faa75ad8e7e6"
+            "sha256": "ac61f1a5c827c35916c01fe390e85434e1e2c90b09e035f96cc30773892b53e4"
         },
         {
             "path": "mods/sodium.sculk.json",
-            "sha256": "c20508e609dcbef7e0558ebcca8170f105c0d31bdb236b0a84010dca1515608d"
+            "sha256": "602899cc6dbf3a839bfd90131dd49a6d608b972fad13a1a405db80b68181a648"
         },
         {
             "path": "mods/lithium.sculk.json",
-            "sha256": "bbf597ac395434ac9504750ede6ba94cbd050695ee450208b19fcc1c1cffcaa1"
+            "sha256": "a90915cbfee43126bdb1263026b47325a598e04afceacd56836c0a404201ffa3"
         },
         {
             "path": "mods/modernfix.sculk.json",
-            "sha256": "9cdbb512588dbb44f12f29f22193a8d86daaba7343ea572945bad812bdd32cf9"
+            "sha256": "601f55e487473f51c5d09665aaca4ea2b24301f0a3c1ca65b32088b26334b062"
         },
         {
             "path": "mods/rightclickharvest.sculk.json",
-            "sha256": "a7e24c6b8c354727946b94379f86fc9c8f51a46e42d465a40c7ebdf133dcda92"
+            "sha256": "d445991f00c71bf5e7e1c1f1eb51fcb2bdb6fdbbbafea71f41585785dffeb546"
         },
         {
             "path": "mods/jamlib.sculk.json",
-            "sha256": "a69073364eb0a6d6e16b097a8770a7c027160e0929a9b108608b22c16271f3e2"
+            "sha256": "c802e2911ffb807396db2260949f74207bfda6f7ea75a13b83ec60ba18c7f7cd"
         },
         {
             "path": "mods/sort-it-out.sculk.json",
-            "sha256": "814afcd80c41e36725f829d02666f8e0ca12e33f9617362229a83422d8e11071"
-        },
-        {
-            "path": "mods/shogi.sculk.json",
-            "sha256": "3646b8c6daed8e2548bc85ad88d3b866c4350476cf02b622de6810d86b104bb1"
+            "sha256": "3d53d76fbd3b53d5c7a7d1481a10f891dd8a425cb88209b551c4e5d062b9c693"
         },
         {
             "path": "mods/sound-physics-remastered.sculk.json",
-            "sha256": "2b9b8459f45f1c191336ba8660e91480988c830a688732f6fc9ba7acdb6ee95e"
+            "sha256": "17bc7c471f76c54175f23997e11e7670c89bf167b50e944630b1b954cae6499d"
         },
         {
             "path": "mods/sound.sculk.json",
-            "sha256": "0469c18063ea91e3b6ce89c6ea47a57bba712323a9e330e6e49fa10826904ecd"
+            "sha256": "d9e3f8b5d4f4730755e890b69797ee63eabf7dc83b729d19b0b71e3c8bc38b19"
         },
         {
             "path": "mods/yacl.sculk.json",
-            "sha256": "3a4a5b4b8f522e193c3e1da5ae22124249c552c161303e8607b503fc910da4db"
+            "sha256": "0b46d5fecbf2433bd59a7b3977e395449465faff40ae956b38fdb82c60d4f17b"
         },
         {
             "path": "mods/mru.sculk.json",
-            "sha256": "26cc4427ee849a7c534518a5839220d085bb951521ca290984bb7d6631edd4d6"
+            "sha256": "e04737e9c176d6b71bf4222e1b26f7cc72e3117481c15e64082791ba94614d49"
         },
         {
             "path": "mods/simple-voice-chat.sculk.json",
-            "sha256": "2d6643063e1e49b25e434a05456a39e0fcbffca6cdb105fa135f1598e5ac62bd"
+            "sha256": "c7092aebebdaa7c902533307987897e5f9c83095c17271700121ae6e83a1273d"
         },
         {
             "path": "mods/trade-cycling.sculk.json",
-            "sha256": "dae324832635d1212f5e7fa1cced1733590ab7d3789729cae46b7e7cee95ce63"
+            "sha256": "bfcadd34788436b8d1a893fd5403193bab30860c7ca132b348da7e1a2d9a2296"
         },
         {
             "path": "mods/waystones.sculk.json",
-            "sha256": "1f7f6a9788a8c787ad22df645ef574a11ef771555eb0a521a95ee87d4177000a"
+            "sha256": "f8a840e21062d6d0c4c49317a0d5f474c4d1335a99031133551ec7a8bdad6089"
         },
         {
             "path": "mods/xaeros-minimap.sculk.json",
-            "sha256": "8659f3104b05ac39d1aaaa1baba4ab827478bedd488c1f60aa3561bf4ff592cc"
+            "sha256": "bd729642e694a2bd8e1144e0ef5b669756d4763b2724512394a9255665198b2b"
         },
         {
             "path": "mods/xaeros-world-map.sculk.json",
-            "sha256": "d4dc349dccb592879ee983b0ea6daff8cd0747b09774a5cebf2eb763f13f35f6"
+            "sha256": "018bf85e154799d3005812b057c001ddab051abb7f8041ecf51763bf97f6e7d8"
         },
         {
             "path": "mods/lambdynamiclights.sculk.json",
-            "sha256": "d1f684a0d4f5f841e59de029939dda32e5a467f623c8a47c875f4dbf1adc7edc"
+            "sha256": "fa7ecb43ea93272fe491f84ee7287174a5d173f996e9cb7058bc7b5c44abf1f9"
         },
         {
             "path": "mods/jei.sculk.json",
-            "sha256": "954babb659affc130f925ab3545c0ada9d4619032b1f3e2dcb7280cabac053ba"
+            "sha256": "09b7e5b5bb4a47b4c55b0e972fb0beac614f65a4372949b2ab94e54311be2a9f"
         }
     ],
     "files": []

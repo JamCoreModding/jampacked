@@ -1,15 +1,15 @@
 {
-    "filename": "sodium-neoforge-0.8.12+mc26.1.2.jar",
+    "filename": "sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
     "side": "both",
-    "fileSize": 1144237,
+    "fileSize": 1291422,
     "sources": {
         "modrinth": {
             "projectId": "AANobbMI",
-            "fileUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/775xoFNg/sodium-neoforge-0.8.12%2Bmc26.1.2.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/iw5APcWy/sodium-neoforge-0.8.12-beta.1%2Bmc1.21.1.jar",
             "hashes": {
-                "sha1": "b6552c1263548556f9e59dd8a391caf54c1d2213",
-                "sha512": "095aabfe237493e3c7d377cd063133ec0becada8f482818895338923ca79f798ecb09537b44f4fb68844c8032a64482efca688d71c9a3c57d43d736772e47e59",
-                "murmur2": 1548130752
+                "sha1": "5f24c8cf07e40581210c020b54106e175f793e85",
+                "sha512": "31d3244c06db15f3b816e09b25a62d48f52c3dcf326932e00e923152926696037742c7fe02aba74109f8a67cbc4ef71423b8e60e274fcf8a11f2fd4e8171422f",
+                "murmur2": 441793094
             }
         }
     }

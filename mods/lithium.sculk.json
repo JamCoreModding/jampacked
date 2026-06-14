@@ -1,15 +1,15 @@
 {
-    "filename": "lithium-neoforge-0.24.5+mc26.1.2.jar",
+    "filename": "lithium-neoforge-0.15.3+mc1.21.1.jar",
     "side": "both",
-    "fileSize": 897287,
+    "fileSize": 774148,
     "sources": {
         "modrinth": {
             "projectId": "gvQqBUqZ",
-            "fileUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/333T8Q8i/lithium-neoforge-0.24.5%2Bmc26.1.2.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
             "hashes": {
-                "sha1": "3da20e0aea2cd7921cbbea775417f190356978f8",
-                "sha512": "c43d861a2e1bc235529ec0cfd5791787a6175736d5c4f28703a116522a7ec0600b520c694516a72a3d3d1be6522f78369d6a4b75c467d11fec2604cbb4e03e10",
-                "murmur2": 2917635963
+                "sha1": "9fd5fa9076044180ae7f51672de74669196ec72e",
+                "sha512": "65568e6c7e41684ad20e58db8766813840c0c8406eed9edc3f7a2514da7250ac46bde2bfb0936984cc5516c2782f86387ad0ed3d1b804b8bdddc7f7048759df4",
+                "murmur2": 1666655641
             }
         }
     }

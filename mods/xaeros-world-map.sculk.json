@@ -1,15 +1,15 @@
 {
-    "filename": "xaeroworldmap-neoforge-26.1.2-1.41.0.jar",
+    "filename": "xaeroworldmap-neoforge-1.21.1-1.41.0.jar",
     "side": "both",
-    "fileSize": 1411923,
+    "fileSize": 1386888,
     "sources": {
         "modrinth": {
             "projectId": "NcUtCpym",
-            "fileUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/RKCzbO9T/xaeroworldmap-neoforge-26.1.2-1.41.0.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/EupKCSdU/xaeroworldmap-neoforge-1.21.1-1.41.0.jar",
             "hashes": {
-                "sha1": "2f781d892d651774b757c49cdd21728d7f7978bd",
-                "sha512": "e4cf5c9fa512493d4260a28714d335856d00c8bcda8a94957ba7984b92afb182c8910edff1063b8c29665bc04cd15824fd2782aa898aca8ea80973f8b5e1543c",
-                "murmur2": 886198084
+                "sha1": "4d300131aa08889745df829d0d86909f1575c131",
+                "sha512": "0911dfde81de21b8f4bd47b8dd5ee5b98141a1c9cdc8dd7f66f306b11b3b51a1bceef316cd9b53fb4d4e56cf58178dc46769202e37e29c51be167d100c9e84ee",
+                "murmur2": 639474524
             }
         }
     }
