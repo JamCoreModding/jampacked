@@ -1,0 +1,16 @@
+{
+    "filename": "artifacts-neoforge-13.2.1.jar",
+    "side": "both",
+    "fileSize": 1030252,
+    "sources": {
+        "modrinth": {
+            "projectId": "P0Mu4wcQ",
+            "fileUrl": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/rGPw090r/artifacts-neoforge-13.2.1.jar",
+            "hashes": {
+                "sha1": "3fe4d52cc0b11d91c75005030e83e3f675e62383",
+                "sha512": "4e5ccc2733e2ede833e6c4ae6b44751eab5ac48857055b61fdcbb6434c7d867c17b438eea9f226f6af652ee397f3fb4d7583f263a5d706d730ff7243ace865dc",
+                "murmur2": 3678039641
+            }
+        }
+    }
+}

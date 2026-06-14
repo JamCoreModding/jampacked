@@ -1,31 +1,50 @@
 {
+    "mods/lithostitched.sculk.json": [
+        "mods/terralith.sculk.json"
+    ],
     "mods/melody.sculk.json": [
-        "mods/fancymenu.sculk.json",
         "mods/fancymenu.sculk.json"
+    ],
+    "mods/architectury-api.sculk.json": [
+        "mods/utility-belt.sculk.json"
+    ],
+    "mods/konkrete.sculk.json": [
+        "mods/fancymenu.sculk.json"
+    ],
+    "mods/owo-lib.sculk.json": [
+        "mods/accessories.sculk.json"
+    ],
+    "mods/yacl.sculk.json": [
+        "mods/sound.sculk.json"
+    ],
+    "mods/curios.sculk.json": [
+        "mods/accessories-compat-layer.sculk.json"
+    ],
+    "mods/connector.sculk.json": [
+        "mods/continuity.sculk.json"
+    ],
+    "mods/forgified-fabric-api.sculk.json": [
+        "mods/continuity.sculk.json"
+    ],
+    "mods/guideme.sculk.json": [
+        "mods/ae2.sculk.json"
     ],
     "mods/balm.sculk.json": [
         "mods/waystones.sculk.json"
     ],
     "mods/mru.sculk.json": [
-        "mods/sound.sculk.json",
         "mods/sound.sculk.json"
     ],
-    "mods/konkrete.sculk.json": [
-        "mods/fancymenu.sculk.json",
-        "mods/fancymenu.sculk.json"
-    ],
     "mods/puzzles-lib.sculk.json": [
-        "mods/cut-through.sculk.json",
         "mods/cut-through.sculk.json"
+    ],
+    "mods/accessories.sculk.json": [
+        "mods/utility-belt.sculk.json"
     ],
     "mods/sodium.sculk.json": [
         "mods/iris.sculk.json"
     ],
-    "mods/yacl.sculk.json": [
-        "mods/sound.sculk.json"
-    ],
     "mods/jamlib.sculk.json": [
-        "mods/rightclickharvest.sculk.json",
         "mods/rightclickharvest.sculk.json"
     ]
 }

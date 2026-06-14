@@ -1,0 +1,16 @@
+{
+    "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+    "side": "both",
+    "fileSize": 410690,
+    "sources": {
+        "modrinth": {
+            "projectId": "vvuO3ImH",
+            "fileUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
+            "hashes": {
+                "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+                "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5",
+                "murmur2": 933317947
+            }
+        }
+    }
+}

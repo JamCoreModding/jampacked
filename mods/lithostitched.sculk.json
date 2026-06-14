@@ -1,0 +1,16 @@
+{
+    "filename": "lithostitched-1.7.10+beta3-neoforge-21.1.jar",
+    "side": "both",
+    "fileSize": 851313,
+    "sources": {
+        "modrinth": {
+            "projectId": "XaDC71GB",
+            "fileUrl": "https://cdn.modrinth.com/data/XaDC71GB/versions/cSWf6M1G/lithostitched-1.7.10%2Bbeta3-neoforge-21.1.jar",
+            "hashes": {
+                "sha1": "ee6a92eccf144f462f00a15c36bcd441c0b0e09f",
+                "sha512": "b35ef81b3c67e0cbc74223a3ea1f237a4d0aecca1020462f330e3f92b929ced90177496f666d002e58d51203c72d42e356adac6a6730b95462a9379277739ddf",
+                "murmur2": 1031810541
+            }
+        }
+    }
+}

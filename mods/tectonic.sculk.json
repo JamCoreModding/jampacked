@@ -1,0 +1,16 @@
+{
+    "filename": "tectonic-3.0.22-neoforge-21.1.jar",
+    "side": "both",
+    "fileSize": 337253,
+    "sources": {
+        "modrinth": {
+            "projectId": "lWDHr9jE",
+            "fileUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/iCGkqnnx/tectonic-3.0.22-neoforge-21.1.jar",
+            "hashes": {
+                "sha1": "12b0f4af2a2eaae3d9e9cb1a8a3fd1ca7e610314",
+                "sha512": "a02d3f2bfd8aa099512005df23b45ec723694c397b4224a69ffd47b41cd06bb3d56a0f10bbfd81e8159e0fc55f61d0729656f91231410a74ed55e6fc16fd18ec",
+                "murmur2": 2581496858
+            }
+        }
+    }
+}

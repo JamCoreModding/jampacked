@@ -1,0 +1,16 @@
+{
+    "filename": "utility-belt-neoforge-3.0.2+1.21.1.jar",
+    "side": "both",
+    "fileSize": 272865,
+    "sources": {
+        "modrinth": {
+            "projectId": "9ewe2JHJ",
+            "fileUrl": "https://cdn.modrinth.com/data/9ewe2JHJ/versions/TEDIWQah/utility-belt-neoforge-3.0.2%2B1.21.1.jar",
+            "hashes": {
+                "sha1": "7243b4130b0bfcdaad768b75aaa3912620351f3d",
+                "sha512": "5395ee66e2b1efd621c64addfad01254c42b4de05f33d8329f5357326dcd642c856fc727318fc8d56ddd6dcad94bd98b949d6ac986fe691589adc0612d5b51cc",
+                "murmur2": 429056589
+            }
+        }
+    }
+}

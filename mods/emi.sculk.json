@@ -1,0 +1,16 @@
+{
+    "filename": "emi-1.1.24+1.21.1+neoforge.jar",
+    "side": "both",
+    "fileSize": 1111538,
+    "sources": {
+        "modrinth": {
+            "projectId": "fRiHVvU7",
+            "fileUrl": "https://cdn.modrinth.com/data/fRiHVvU7/versions/5sIPA1To/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
+            "hashes": {
+                "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a",
+                "sha512": "f4c45ed686fe617311d6debadcb6ace5963e66f8cfe0cfed398231f081f87407070efc7a73c8b695d158f1d87a97180737b9107a46771e77df2bc9a7dc715ebd",
+                "murmur2": 2937070771
+            }
+        }
+    }
+}

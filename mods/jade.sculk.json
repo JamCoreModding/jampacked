@@ -1,0 +1,16 @@
+{
+    "filename": "Jade-1.21.1-NeoForge-15.10.5.jar",
+    "side": "both",
+    "fileSize": 725742,
+    "sources": {
+        "modrinth": {
+            "projectId": "nvQzSEkH",
+            "fileUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar",
+            "hashes": {
+                "sha1": "d5bf134b3dbde9f5258666823900e21341dc0a50",
+                "sha512": "678b998677a3d73f98f82dac4093893bfc8a3c2335ec627b4147811c381a040475decdb8db31cc3cbe600abb5a7a6dedcd356eed0ba471af0becdcf49bf5b137",
+                "murmur2": 1963309046
+            }
+        }
+    }
+}
