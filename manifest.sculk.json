@@ -115,6 +115,22 @@
         {
             "path": "mods/waystones.sculk.json",
             "sha256": "1f7f6a9788a8c787ad22df645ef574a11ef771555eb0a521a95ee87d4177000a"
+        },
+        {
+            "path": "mods/xaeros-minimap.sculk.json",
+            "sha256": "8659f3104b05ac39d1aaaa1baba4ab827478bedd488c1f60aa3561bf4ff592cc"
+        },
+        {
+            "path": "mods/xaeros-world-map.sculk.json",
+            "sha256": "d4dc349dccb592879ee983b0ea6daff8cd0747b09774a5cebf2eb763f13f35f6"
+        },
+        {
+            "path": "mods/lambdynamiclights.sculk.json",
+            "sha256": "d1f684a0d4f5f841e59de029939dda32e5a467f623c8a47c875f4dbf1adc7edc"
+        },
+        {
+            "path": "mods/jei.sculk.json",
+            "sha256": "954babb659affc130f925ab3545c0ada9d4619032b1f3e2dcb7280cabac053ba"
         }
     ],
     "files": []

@@ -1,0 +1,16 @@
+{
+    "filename": "lambdynamiclights-4.10.2+26.1.2.jar",
+    "side": "both",
+    "fileSize": 1336717,
+    "sources": {
+        "modrinth": {
+            "projectId": "yBW8D80W",
+            "fileUrl": "https://cdn.modrinth.com/data/yBW8D80W/versions/UnhzVQJV/lambdynamiclights-4.10.2%2B26.1.2.jar",
+            "hashes": {
+                "sha1": "7d48324546d39cdfe5bfa90e1897bb031619a15d",
+                "sha512": "62932181fd3483f04efabb02adcdbe1d9565b29bee7ba9ed71b91b6291b54174dc0f8db468fa14f9e61b10e35ddfe772655786803ad9a3f392154060fe6cf91f",
+                "murmur2": 929269198
+            }
+        }
+    }
+}

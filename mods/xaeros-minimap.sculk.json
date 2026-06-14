@@ -1,0 +1,16 @@
+{
+    "filename": "xaerominimap-neoforge-26.1.2-26.1.0.jar",
+    "side": "both",
+    "fileSize": 2117367,
+    "sources": {
+        "modrinth": {
+            "projectId": "1bokaNcj",
+            "fileUrl": "https://cdn.modrinth.com/data/1bokaNcj/versions/QaHTqfK2/xaerominimap-neoforge-26.1.2-26.1.0.jar",
+            "hashes": {
+                "sha1": "2e9dd8d68d05841d7f32000dae3f91b3e83197d0",
+                "sha512": "55b8e8b8f76d05d699dd2a861c6f758b2db2b4f0f365b4fd0e7416d2ddf1becb6187f4ee4f304ea8dfb3aecbcf6c7aa116aa7769f11e775d8efd4cfbe0aff913",
+                "murmur2": 2944719945
+            }
+        }
+    }
+}
