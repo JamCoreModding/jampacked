@@ -1,6 +1,6 @@
 {
     "filename": "sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
-    "side": "client",
+    "side": "client_only",
     "fileSize": 1291422,
     "sources": {
         "modrinth": {
