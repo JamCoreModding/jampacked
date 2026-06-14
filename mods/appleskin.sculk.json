@@ -1,16 +1,16 @@
 {
     "filename": "appleskin-neoforge-mc26.1-3.0.9.jar",
     "side": "both",
-    "hashes": {
-        "sha1": "a9837dd537524a4b6a78ec17be41f5af1fc59f92",
-        "sha512": "ee7fefd75542031e1bfdeeb89491e4a5064ebc53c551874fcd264f2377247ddbda999d0c4b9f99d49715094728db08441242f9de75881d6a840a90281c8685af",
-        "murmur2": 856120283
-    },
     "fileSize": 80560,
     "sources": {
         "modrinth": {
             "projectId": "EsAfCjCV",
-            "fileUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/i8MiVItH/appleskin-neoforge-mc26.1-3.0.9.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/i8MiVItH/appleskin-neoforge-mc26.1-3.0.9.jar",
+            "hashes": {
+                "sha1": "a9837dd537524a4b6a78ec17be41f5af1fc59f92",
+                "sha512": "ee7fefd75542031e1bfdeeb89491e4a5064ebc53c551874fcd264f2377247ddbda999d0c4b9f99d49715094728db08441242f9de75881d6a840a90281c8685af",
+                "murmur2": 856120283
+            }
         }
     }
 }

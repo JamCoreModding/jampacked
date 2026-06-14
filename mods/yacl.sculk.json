@@ -1,0 +1,16 @@
+{
+    "filename": "yet_another_config_lib_v3-3.9.4+26.1-neoforge.jar",
+    "side": "both",
+    "fileSize": 1115875,
+    "sources": {
+        "modrinth": {
+            "projectId": "1eAoo2KR",
+            "fileUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/ClVlCJ5t/yet_another_config_lib_v3-3.9.4%2B26.1-neoforge.jar",
+            "hashes": {
+                "sha1": "56ebb70b88ede97ff92d1d62688d622e178769dc",
+                "sha512": "3074cd23329cfe24967e4e4889683fa7d255889a2ee3e8f6bb945c45e6a73bc87d8a02dda29f1543d8493265fab2ceb67c1a2d7421ef57d60c2ea04b1bd3b5f4",
+                "murmur2": 1713642392
+            }
+        }
+    }
+}

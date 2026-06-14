@@ -1,16 +1,16 @@
 {
-    "filename": "sounds-2.4.25+lts+26.1.2-neoforge.jar",
+    "filename": "sounds-2.5.0+lts+26.1.2-neoforge.jar",
     "side": "both",
-    "hashes": {
-        "sha1": "b7962b89e61c4e2168983920784d572f8ecd61c5",
-        "sha512": "68d4057a24d171fb5f198b9679a6b6a17da3be1ae0fb0432489b380ee3794fd5d9965078c914c77ef5287ed01de7714cb1a8d7558658246b5829963e7978d8d5",
-        "murmur2": 190848270
-    },
-    "fileSize": 8906269,
+    "fileSize": 8914790,
     "sources": {
         "modrinth": {
             "projectId": "ZouiUX7t",
-            "fileUrl": "https://cdn.modrinth.com/data/ZouiUX7t/versions/5K8Tax82/sounds-2.4.25%2Blts%2B26.1.2-neoforge.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/ZouiUX7t/versions/z5WcXu53/sounds-2.5.0%2Blts%2B26.1.2-neoforge.jar",
+            "hashes": {
+                "sha1": "9cc1bab2709351dcf77c5efdf8f323afd4c50f90",
+                "sha512": "eb3540cf0e03b5f51e71d54c93796c1c0a18b699590c4da6480e7d2be1d8307d276a3864787c85e97bb21b6c3fa33953bfafc3843b3905ea548190cb11a9f84c",
+                "murmur2": 1252097531
+            }
         }
     }
 }

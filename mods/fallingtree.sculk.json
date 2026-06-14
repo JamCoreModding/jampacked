@@ -1,16 +1,16 @@
 {
     "filename": "FallingTree-26.1.2-25.jar",
     "side": "both",
-    "hashes": {
-        "sha1": "d16ce52495ec2aec54f4f2472e5a657a416af422",
-        "sha512": "d7e31fccb2c6174fdf41599d33eb54c94ca2c42e0a6f76cb12327ac8b98f86b938fe41322875c2496f5ee27dd890cc96648d71c57ee8568083107fb54c71d2e6",
-        "murmur2": 4018906940
-    },
     "fileSize": 493215,
     "sources": {
         "modrinth": {
             "projectId": "Fb4jn8m6",
-            "fileUrl": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/YpsBfAWL/FallingTree-26.1.2-25.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/YpsBfAWL/FallingTree-26.1.2-25.jar",
+            "hashes": {
+                "sha1": "d16ce52495ec2aec54f4f2472e5a657a416af422",
+                "sha512": "d7e31fccb2c6174fdf41599d33eb54c94ca2c42e0a6f76cb12327ac8b98f86b938fe41322875c2496f5ee27dd890cc96648d71c57ee8568083107fb54c71d2e6",
+                "murmur2": 4018906940
+            }
         }
     }
 }

@@ -1,16 +1,16 @@
 {
     "filename": "mru-1.0.28+lts+26.1-neoforge.jar",
     "side": "both",
-    "hashes": {
-        "sha1": "8f65ff9045c79f5e0da9563d3e162928de89eda7",
-        "sha512": "c245f33c1e5850962b50193f74ed234aee6b1e6803e066d1757b3d60d8f825acde7664faec9ec361dda073f0a5b34b370bff709fd06b4f2bdc9cb28d29c037e6",
-        "murmur2": 2062459526
-    },
     "fileSize": 93955,
     "sources": {
         "modrinth": {
             "projectId": "SNVQ2c0g",
-            "fileUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/ooZ72rtT/mru-1.0.28%2Blts%2B26.1-neoforge.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/ooZ72rtT/mru-1.0.28%2Blts%2B26.1-neoforge.jar",
+            "hashes": {
+                "sha1": "8f65ff9045c79f5e0da9563d3e162928de89eda7",
+                "sha512": "c245f33c1e5850962b50193f74ed234aee6b1e6803e066d1757b3d60d8f825acde7664faec9ec361dda073f0a5b34b370bff709fd06b4f2bdc9cb28d29c037e6",
+                "murmur2": 2062459526
+            }
         }
     }
 }

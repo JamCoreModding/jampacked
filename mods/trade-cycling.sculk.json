@@ -1,16 +1,16 @@
 {
     "filename": "trade-cycling-neoforge-1.0.21+26.1.2.jar",
     "side": "both",
-    "hashes": {
-        "sha1": "40f814746bd9db1bbaa1f0332245bb72ea0eb60c",
-        "sha512": "e57c14b16809279ed478dfbf65b4d703c45899f18ef6b5a33f3f0786e738447ef2c6664a459efd1fb56d7d3bfaa1eddfa6fed9649a5aaf5ccb1ed5af4347de40",
-        "murmur2": 1756634712
-    },
     "fileSize": 86767,
     "sources": {
         "modrinth": {
             "projectId": "qpPoAL6m",
-            "fileUrl": "https://cdn.modrinth.com/data/qpPoAL6m/versions/CjVuaIOO/trade-cycling-neoforge-1.0.21%2B26.1.2.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/qpPoAL6m/versions/CjVuaIOO/trade-cycling-neoforge-1.0.21%2B26.1.2.jar",
+            "hashes": {
+                "sha1": "40f814746bd9db1bbaa1f0332245bb72ea0eb60c",
+                "sha512": "e57c14b16809279ed478dfbf65b4d703c45899f18ef6b5a33f3f0786e738447ef2c6664a459efd1fb56d7d3bfaa1eddfa6fed9649a5aaf5ccb1ed5af4347de40",
+                "murmur2": 1756634712
+            }
         }
     }
 }

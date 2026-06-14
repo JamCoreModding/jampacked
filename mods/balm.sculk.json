@@ -1,16 +1,16 @@
 {
-    "filename": "balm-neoforge-26.1.2-26.1.2.6.jar",
+    "filename": "balm-neoforge-26.1.2-26.1.2.7.jar",
     "side": "both",
-    "hashes": {
-        "sha1": "8261ac5713d75f83ff2bc359a13510992e4890fa",
-        "sha512": "6bf2879c20f95133c527ccadb50ead793712eaf2d66f9d2cae8367b303e26a401d1612cfbd1d5b290649accffb4707c69874e10e97bb6aa75b8ee55b0bdb9383",
-        "murmur2": 113987617
-    },
-    "fileSize": 1021095,
+    "fileSize": 1039146,
     "sources": {
         "modrinth": {
             "projectId": "MBAkmtvl",
-            "fileUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/e7sQFfFK/balm-neoforge-26.1.2-26.1.2.6.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/wMzlsgW9/balm-neoforge-26.1.2-26.1.2.7.jar",
+            "hashes": {
+                "sha1": "b6f6ef8064b6d995879171d34a5b9336aee47399",
+                "sha512": "e28656c6ae53e8e2cc7792de9dcd6f9657a202fbb7da10f36b1118e7cedaed4242692a9e76a96aca1b449c003559301cbcca14e08c6c64051d787d55fb3adc8c",
+                "murmur2": 2242379617
+            }
         }
     }
 }

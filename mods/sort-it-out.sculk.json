@@ -1,0 +1,16 @@
+{
+    "filename": "sort_it_out-neoforge-1.4.2+26.1.x.jar",
+    "side": "both",
+    "fileSize": 104256,
+    "sources": {
+        "modrinth": {
+            "projectId": "jcOSOvm1",
+            "fileUrl": "https://cdn.modrinth.com/data/jcOSOvm1/versions/OUyLAPzy/sort_it_out-neoforge-1.4.2%2B26.1.x.jar",
+            "hashes": {
+                "sha1": "072f78df8154a0eec91dbbd1b69ae6fb2038970c",
+                "sha512": "bb2c3c2fce4411fb9098c5911fe7641332ac269652488838ca5d690c573bc5118a9b7ab8f20b615c3f71082dcb5efa8db879a8b6029b6110d4e8805e82737581",
+                "murmur2": 2627846507
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "filename": "voicechat-neoforge-2.6.18+26.1.2.jar",
+    "side": "both",
+    "fileSize": 4903607,
+    "sources": {
+        "modrinth": {
+            "projectId": "9eGKb6K1",
+            "fileUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/SruPNs2m/voicechat-neoforge-2.6.18%2B26.1.2.jar",
+            "hashes": {
+                "sha1": "1f16894a1a0d4570ea595b95fff9ca332169ff82",
+                "sha512": "f171b4c9c27b27e4a04fbc49d5ebb9a9fdb4ae3eb10683c759bc203edd819b352e9b71c866d37f698b4ae7fc1ca7d15d3a3472542b190d58fc3ff0030d5470d7",
+                "murmur2": 4006377113
+            }
+        }
+    }
+}

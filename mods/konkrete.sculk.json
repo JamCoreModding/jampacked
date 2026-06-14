@@ -1,16 +1,16 @@
 {
     "filename": "konkrete_neoforge_1.10.1_MC_26.1.1.jar",
     "side": "both",
-    "hashes": {
-        "sha1": "9d7c67fbb015296236dcc56816ae604815721379",
-        "sha512": "c03ea1493bb73381d82d0c8bf8c3fd0a78ad1e8d330b884731534aa5b7e2a4d2c24aa27e337ffc7e8b7bd96f772b94fd45dfd94396eb35148eee1d4420c17f4c",
-        "murmur2": 228699385
-    },
     "fileSize": 612182,
     "sources": {
         "modrinth": {
             "projectId": "J81TRJWm",
-            "fileUrl": "https://cdn.modrinth.com/data/J81TRJWm/versions/S3KyS0Na/konkrete_neoforge_1.10.1_MC_26.1.1.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/J81TRJWm/versions/S3KyS0Na/konkrete_neoforge_1.10.1_MC_26.1.1.jar",
+            "hashes": {
+                "sha1": "9d7c67fbb015296236dcc56816ae604815721379",
+                "sha512": "c03ea1493bb73381d82d0c8bf8c3fd0a78ad1e8d330b884731534aa5b7e2a4d2c24aa27e337ffc7e8b7bd96f772b94fd45dfd94396eb35148eee1d4420c17f4c",
+                "murmur2": 228699385
+            }
         }
     }
 }
