@@ -215,6 +215,10 @@
         {
             "path": "mods/when-dungeons-arise.sculk.json",
             "sha256": "3e451731e4c57a83948a777c6385c840c34ab08d01f49ff21d912d2b793d96fc"
+        },
+        {
+            "path": "mods/ferrite-core.sculk.json",
+            "sha256": "c5aab3a50637e8a8de9ffe03cbe6bb064ec023a910ca87cf75722dc3d2322f11"
         }
     ],
     "files": []
