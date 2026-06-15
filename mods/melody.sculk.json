@@ -1,6 +1,6 @@
 {
     "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
-    "side": "both",
+    "side": "client_only",
     "fileSize": 36096,
     "sources": {
         "modrinth": {

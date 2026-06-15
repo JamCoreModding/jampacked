@@ -1,6 +1,6 @@
 {
     "filename": "DungeonsArise-1.21.1-2.1.68-release.jar",
-    "side": "both",
+    "side": "server_only",
     "fileSize": 11842679,
     "sources": {
         "modrinth": {

@@ -1,15 +1,15 @@
 {
-    "filename": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+    "filename": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
     "side": "both",
-    "fileSize": 1425185,
+    "fileSize": 1425176,
     "sources": {
         "modrinth": {
             "projectId": "QAGBst4M",
-            "fileUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/PRF4qcdp/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/5A6wiMVf/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
             "hashes": {
-                "sha1": "035de52d3eb18ceeca4e4e63516af873c0975060",
-                "sha512": "ddfb1da782081266051d46e921818173d1267e534ecc734cec60f800066347412b2b9538c1a2d478bf74d8d844db251c5ec33b2e17438ba078ba1b08b98e1c2e",
-                "murmur2": 986404996
+                "sha1": "66182c3affb9f99624d1d770ca168d2a63af83f6",
+                "sha512": "c195ebd7910dcb758cdc5bed1feb8b80fdb1a86e19b4521fd23a7a9d64838112c7b765cc8f5a6ea380fb0105ca1d09fc96956007bafa3edc423ec7ed0215324e",
+                "murmur2": 2149074619
             }
         }
     }

@@ -1,6 +1,6 @@
 {
     "filename": "BHMenu-NeoForge-1.21-2.4.4.jar",
-    "side": "both",
+    "side": "client_only",
     "fileSize": 163914,
     "sources": {
         "modrinth": {

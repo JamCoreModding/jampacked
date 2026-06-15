@@ -1,6 +1,6 @@
 {
     "filename": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
-    "side": "both",
+    "side": "server_only",
     "fileSize": 287634,
     "sources": {
         "modrinth": {

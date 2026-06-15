@@ -1,6 +1,6 @@
 {
     "filename": "lambdynamiclights-4.8.8+1.21.1.jar",
-    "side": "both",
+    "side": "client_only",
     "fileSize": 2017417,
     "sources": {
         "modrinth": {

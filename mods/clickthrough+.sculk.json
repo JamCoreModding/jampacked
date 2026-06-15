@@ -1,6 +1,6 @@
 {
     "filename": "clickthrough-plus-neoforge-3.5.0+1.21.1.jar",
-    "side": "both",
+    "side": "client_only",
     "fileSize": 245090,
     "sources": {
         "modrinth": {

@@ -1,6 +1,6 @@
 {
     "filename": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
-    "side": "both",
+    "side": "client_only",
     "fileSize": 368598,
     "sources": {
         "modrinth": {

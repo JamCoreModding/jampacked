@@ -1,6 +1,6 @@
 {
     "filename": "ok_zoomer-neo-10.0.0-beta.13.jar",
-    "side": "both",
+    "side": "client_only",
     "fileSize": 208085,
     "sources": {
         "modrinth": {

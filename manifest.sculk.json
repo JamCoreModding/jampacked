@@ -18,7 +18,7 @@
         },
         {
             "path": "mods/bisect-mod.sculk.json",
-            "sha256": "550a6d7e704903503cb0d36da6d366eb223d38b57a4dd8bc8e6c0d3b10a6eb12"
+            "sha256": "6faf308e3b64ac65078690956f9401274d71d0489a9a1fef4ab2c63dd0f8a101"
         },
         {
             "path": "mods/cloth-config.sculk.json",
@@ -26,11 +26,11 @@
         },
         {
             "path": "mods/cut-through.sculk.json",
-            "sha256": "8cc02f3e1e58b5155c5c5966efe8e5aea272d8f11a05c6bfb5bbd64d3ffd301c"
+            "sha256": "684b0206e0a4cbf12442cd7fe40a1838e0abcfff65e6f6ec1a3036f803f6d9d4"
         },
         {
             "path": "mods/puzzles-lib.sculk.json",
-            "sha256": "e47e10be2caeab65bfca99eae99cd6bc074805c9eb9263aea7c38896358d60a2"
+            "sha256": "bed47d27296e7221448469d30708bfbd75fffcea4dbfa9d00fa4cc4aae639612"
         },
         {
             "path": "mods/distanthorizons.sculk.json",
@@ -50,15 +50,15 @@
         },
         {
             "path": "mods/melody.sculk.json",
-            "sha256": "112e0ed39a4e5261239ba965e3da6c9a87d30c48e620755b325417a7a2b544dd"
+            "sha256": "969910d062b0a265c1b1d3e025ea76a37268cac835e2e6eec5ca3c8a322e68c6"
         },
         {
             "path": "mods/immediatelyfast.sculk.json",
-            "sha256": "4161312601247b816961d9c108022632d2d5f11c395ede965f0fe1b43a4c3a88"
+            "sha256": "e91dcdad19cc215596896b5464593cb6741dc141899af1947044065bded5d194"
         },
         {
             "path": "mods/iris.sculk.json",
-            "sha256": "ac61f1a5c827c35916c01fe390e85434e1e2c90b09e035f96cc30773892b53e4"
+            "sha256": "f55246521ee95d03732bf380264ed022949784602899a82c9b5c90fed38e35e5"
         },
         {
             "path": "mods/sodium.sculk.json",
@@ -74,7 +74,7 @@
         },
         {
             "path": "mods/rightclickharvest.sculk.json",
-            "sha256": "d445991f00c71bf5e7e1c1f1eb51fcb2bdb6fdbbbafea71f41585785dffeb546"
+            "sha256": "82f4ae9f71cf6a461fcdd54d1994f86c9b4279208f07cb117499a475f10082f2"
         },
         {
             "path": "mods/jamlib.sculk.json",
@@ -90,7 +90,7 @@
         },
         {
             "path": "mods/sound.sculk.json",
-            "sha256": "d9e3f8b5d4f4730755e890b69797ee63eabf7dc83b729d19b0b71e3c8bc38b19"
+            "sha256": "2f1782e790224d084496d6551aaa83c50387e7a644bc56802ec9551c13f83b26"
         },
         {
             "path": "mods/yacl.sculk.json",
@@ -122,11 +122,11 @@
         },
         {
             "path": "mods/lambdynamiclights.sculk.json",
-            "sha256": "fa7ecb43ea93272fe491f84ee7287174a5d173f996e9cb7058bc7b5c44abf1f9"
+            "sha256": "cbdf5a3170573b25cc2cd0a092428ace4e49d48c93216b92f06490a23d8f5434"
         },
         {
             "path": "mods/continuity.sculk.json",
-            "sha256": "a1ae8d3264ccae79e3812be4f061cb72e68de5b427c5d41174ad621d3dadaef1"
+            "sha256": "727bcc5f2b33c4eea5acdc7fc693038e3f9db3230ab25c66c6a8913a265d47a0"
         },
         {
             "path": "mods/forgified-fabric-api.sculk.json",
@@ -178,7 +178,7 @@
         },
         {
             "path": "mods/lithostitched.sculk.json",
-            "sha256": "5574898b9c6ad2d7de47a18d9d95b242668b3d14665123ddcebbf0b6f296f057"
+            "sha256": "dc58715a79003d441e276bb88033ede37685de38d0f962c195c784e3834cce25"
         },
         {
             "path": "mods/tectonic.sculk.json",
@@ -214,7 +214,7 @@
         },
         {
             "path": "mods/when-dungeons-arise.sculk.json",
-            "sha256": "3e451731e4c57a83948a777c6385c840c34ab08d01f49ff21d912d2b793d96fc"
+            "sha256": "d9a7724e12bab093a721731b20d2e97270ed243a41d787c753bf3e8d197f5177"
         },
         {
             "path": "mods/ferrite-core.sculk.json",
@@ -222,7 +222,7 @@
         },
         {
             "path": "mods/ok-zoomer.sculk.json",
-            "sha256": "7d69bcfe8d65e8681fdfd415b921727531289ed7a04d2fd9a7a3a1f9a9210db1"
+            "sha256": "059bf257f8e0569881d3bbf8a90d9b67dc2bd4f85b652d3970702c4160e2d2ca"
         },
         {
             "path": "mods/gravestone-mod.sculk.json",
@@ -230,7 +230,7 @@
         },
         {
             "path": "mods/clickthrough+.sculk.json",
-            "sha256": "348156b64b0a80c9d250554ceed5f14b62ebcff608d827da99f6c94a76326d91"
+            "sha256": "1388841b24f069b45ca65f1aebe70da930f9e2c17c743724684b30fdfec88b2e"
         },
         {
             "path": "mods/globalpacks.sculk.json",

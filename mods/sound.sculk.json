@@ -1,6 +1,6 @@
 {
     "filename": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
-    "side": "both",
+    "side": "client_only",
     "fileSize": 8732437,
     "sources": {
         "modrinth": {

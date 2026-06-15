@@ -1,6 +1,6 @@
 {
     "filename": "continuity-3.0.0+1.21.neoforge.jar",
-    "side": "both",
+    "side": "client_only",
     "fileSize": 1014626,
     "sources": {
         "modrinth": {
