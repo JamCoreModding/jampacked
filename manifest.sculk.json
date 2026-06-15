@@ -219,6 +219,18 @@
         {
             "path": "mods/ferrite-core.sculk.json",
             "sha256": "c5aab3a50637e8a8de9ffe03cbe6bb064ec023a910ca87cf75722dc3d2322f11"
+        },
+        {
+            "path": "mods/ok-zoomer.sculk.json",
+            "sha256": "7d69bcfe8d65e8681fdfd415b921727531289ed7a04d2fd9a7a3a1f9a9210db1"
+        },
+        {
+            "path": "mods/gravestone-mod.sculk.json",
+            "sha256": "94e78a76c7d4d282158d34d199647e7a5ad4449446b0f6c1a8a77ebfb27e3b64"
+        },
+        {
+            "path": "mods/clickthrough+.sculk.json",
+            "sha256": "348156b64b0a80c9d250554ceed5f14b62ebcff608d827da99f6c94a76326d91"
         }
     ],
     "files": []
