@@ -231,6 +231,10 @@
         {
             "path": "mods/clickthrough+.sculk.json",
             "sha256": "348156b64b0a80c9d250554ceed5f14b62ebcff608d827da99f6c94a76326d91"
+        },
+        {
+            "path": "mods/globalpacks.sculk.json",
+            "sha256": "0bed78d1c043b7f457842e0892933362caca432678f29c8874c8ac16cb126974"
         }
     ],
     "files": [
@@ -257,7 +261,7 @@
         {
             "path": "datapacks/when-dungeons-arise-lower-spawnrate.zip",
             "side": "both",
-            "sha256": "71caaaa586c93e262b32557e09d43eebf2bd80b26f67e1662c445c0fadc4c5b5"
+            "sha256": "4ea2be9d9c6d8df088eefa6bcb6d9e1631a515c1002f50439d3e2e09f7dc6c67"
         }
     ]
 }
