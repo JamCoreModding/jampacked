@@ -1,15 +1,15 @@
 {
-    "filename": "balm-neoforge-1.21.1-21.0.58.jar",
+    "filename": "balm-neoforge-1.21.1-21.0.59.jar",
     "side": "both",
-    "fileSize": 701868,
+    "fileSize": 735066,
     "sources": {
         "modrinth": {
             "projectId": "MBAkmtvl",
-            "fileUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/3XiinKbh/balm-neoforge-1.21.1-21.0.58.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/QXfHYVcw/balm-neoforge-1.21.1-21.0.59.jar",
             "hashes": {
-                "sha1": "47b6dbe51693d5a2b3eac15c6322f357de365f15",
-                "sha512": "96482428a7e67aea9a5ed6304cbc72baafd157e52d73d07f240d9704f9715bf8fb1d2d45bcaad1329b82a6f46287768f63220da702fb2c19a9a27fb9d9b9cc92",
-                "murmur2": 3796214890
+                "sha1": "f6a16626890644544c1f6d345f6df9bba808ea52",
+                "sha512": "e02f05817d8916ce17b0c1c56ff26c8283969212b3cffe977258499d24a5b8926b69d3c3d691058a6b65f807439aac28b9e2de2905a3fea74dc22777dbe44b46",
+                "murmur2": 2107460241
             }
         }
     }

@@ -1,15 +1,15 @@
 {
-    "filename": "lambdynamiclights-4.8.8+1.21.1.jar",
+    "filename": "lambdynamiclights-4.8.9+1.21.1.jar",
     "side": "client_only",
-    "fileSize": 2017417,
+    "fileSize": 2022377,
     "sources": {
         "modrinth": {
             "projectId": "yBW8D80W",
-            "fileUrl": "https://cdn.modrinth.com/data/yBW8D80W/versions/IQcvNDtF/lambdynamiclights-4.8.8%2B1.21.1.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/yBW8D80W/versions/nztg2oS2/lambdynamiclights-4.8.9%2B1.21.1.jar",
             "hashes": {
-                "sha1": "d0ab30eebffdb999c07964c5775b199792b5cf46",
-                "sha512": "34c279e7f4edf3ff68ad8d33a8cac49a75402630b95a9bfda20880880c2a425fc64c61f63d5406a0243be5b6d5df24eb745c2c5799871fc4a6e5cac4ae2f9426",
-                "murmur2": 791753316
+                "sha1": "ff6b59d58cbd88c812a27267e3338b201132ccac",
+                "sha512": "1f2ee6ef7faae399c57e45193b505b0dbb05ef1cb1ac4f44879d5d20985ccbbf2e189959033bdd102402ca0d1927310a684c412b9c6143c3a3878324a41658cc",
+                "murmur2": 4228691045
             }
         }
     }

@@ -14,7 +14,7 @@
         },
         {
             "path": "mods/balm.sculk.json",
-            "sha256": "d79307ac89a8a09dd0b47f1a03fd65acd279e59c5915f8b6c7d2412d2f289a70"
+            "sha256": "009be332c50a33a0a6cc33524211e92462e21b068fb662db51050d39411e9a62"
         },
         {
             "path": "mods/bisect-mod.sculk.json",
@@ -70,7 +70,7 @@
         },
         {
             "path": "mods/modernfix.sculk.json",
-            "sha256": "601f55e487473f51c5d09665aaca4ea2b24301f0a3c1ca65b32088b26334b062"
+            "sha256": "3b52998d9fa41036f6f96f9deff014f1e7d1ccfd9980b49e45afed083fa1546e"
         },
         {
             "path": "mods/rightclickharvest.sculk.json",
@@ -122,7 +122,7 @@
         },
         {
             "path": "mods/lambdynamiclights.sculk.json",
-            "sha256": "cbdf5a3170573b25cc2cd0a092428ace4e49d48c93216b92f06490a23d8f5434"
+            "sha256": "9ab485492938f021758c02f2f5383d71df81da82d9c34b15c8b3a3bfe70fe116"
         },
         {
             "path": "mods/continuity.sculk.json",
