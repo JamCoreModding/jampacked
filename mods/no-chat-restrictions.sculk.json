@@ -1,0 +1,16 @@
+{
+    "filename": "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar",
+    "side": "client_only",
+    "fileSize": 9116,
+    "sources": {
+        "modrinth": {
+            "projectId": "z440MEwJ",
+            "fileUrl": "https://cdn.modrinth.com/data/z440MEwJ/versions/GtCgmBXp/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar",
+            "hashes": {
+                "sha1": "9e564afb3c2e69fecf401f54f51f4bce335aea28",
+                "sha512": "81593fd6b77b7957645c0349df38098107684a6e20d1e9824453a7d42b0456f64892d65416e6b073edf863aa047c54335cdae48a707bb87b4f8eaa3580e54a31",
+                "murmur2": 1199300758
+            }
+        }
+    }
+}
