@@ -34,7 +34,7 @@
         },
         {
             "path": "mods/distanthorizons.sculk.json",
-            "sha256": "6842f1fb5f0966e983ccaf9386afded06524ed378e4590e70cae09df07ae17f6"
+            "sha256": "6022dffbe1d1a51f477472a9f3b322bb210cf74b4e53bed802376bce905978b7"
         },
         {
             "path": "mods/fallingtree.sculk.json",
@@ -102,7 +102,7 @@
         },
         {
             "path": "mods/simple-voice-chat.sculk.json",
-            "sha256": "c7092aebebdaa7c902533307987897e5f9c83095c17271700121ae6e83a1273d"
+            "sha256": "4d7534febada8c51cdc3f87ec5e9f18db2388f86153f6bc9f41dce681e337d30"
         },
         {
             "path": "mods/trade-cycling.sculk.json",

@@ -1,15 +1,15 @@
 {
-    "filename": "voicechat-neoforge-1.21.1-2.6.18.jar",
+    "filename": "voicechat-neoforge-1.21.1-2.6.19.jar",
     "side": "both",
-    "fileSize": 4902837,
+    "fileSize": 4904223,
     "sources": {
         "modrinth": {
             "projectId": "9eGKb6K1",
-            "fileUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eFhbQnrh/voicechat-neoforge-1.21.1-2.6.18.jar",
+            "fileUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pVcxgOYC/voicechat-neoforge-1.21.1-2.6.19.jar",
             "hashes": {
-                "sha1": "c9e638f5c049fc143dc043c585b13e9078a3f71d",
-                "sha512": "9990a758a9c1044af1dce3b96feaf7eeab91a8180fbf9e77388c1ee9983c2c0919710d87b917eb815457d926f00e68557c6a85eb8193d895ac8fe78fd7abb4c1",
-                "murmur2": 679443986
+                "sha1": "c635bb8f02cff63200de0fc44c7e9e3b823f1dce",
+                "sha512": "0572035e1a706c524a885feb83e8245baa619bc1e182f8bb8917d4ff5d3398461261bf03ff3973859d343afb9eaa8f90ee286eeb884e0e794db1a7dc0433a5e6",
+                "murmur2": 1135971268
             }
         }
     }
