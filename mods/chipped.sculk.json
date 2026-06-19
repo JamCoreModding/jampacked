@@ -1,0 +1,16 @@
+{
+    "filename": "chipped-neoforge-1.21.1-4.0.2.jar",
+    "side": "both",
+    "fileSize": 15020578,
+    "sources": {
+        "modrinth": {
+            "projectId": "BAscRYKm",
+            "fileUrl": "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar",
+            "hashes": {
+                "sha1": "6f5395f58139802edfde7cb9170279f92f291971",
+                "sha512": "f3083b01267e7c674c4b42f45a317c93ee7723443cba2051fe5bc593638b533b0fe90699e2101661c934dff458eab693cce4e188533bfe977778c249563a2fa5",
+                "murmur2": 527531260
+            }
+        }
+    }
+}

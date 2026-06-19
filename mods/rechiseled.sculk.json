@@ -1,0 +1,16 @@
+{
+    "filename": "rechiseled-1.2.4-neoforge-mc1.21.jar",
+    "side": "both",
+    "fileSize": 11488067,
+    "sources": {
+        "modrinth": {
+            "projectId": "B0g2vT6l",
+            "fileUrl": "https://cdn.modrinth.com/data/B0g2vT6l/versions/b3uurWWs/rechiseled-1.2.4-neoforge-mc1.21.jar",
+            "hashes": {
+                "sha1": "bd8ac0c82a04179c649f40b3333ff0648f444086",
+                "sha512": "b78f014060b82eea020640a10cc3e774cb355f5289e91191f2f0122eeb4240eac920b3991d10fd1d8628ebf2248322ddf5703117c55783de3d9948fabbd4e2f8",
+                "murmur2": 73284375
+            }
+        }
+    }
+}

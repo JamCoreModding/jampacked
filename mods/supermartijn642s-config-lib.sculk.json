@@ -1,0 +1,16 @@
+{
+    "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+    "side": "both",
+    "fileSize": 207514,
+    "sources": {
+        "modrinth": {
+            "projectId": "LN9BxssP",
+            "fileUrl": "https://cdn.modrinth.com/data/LN9BxssP/versions/qKL9jM75/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+            "hashes": {
+                "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574",
+                "sha512": "768d8ca178c5e653986f5131b7aeb7fa57ce7d32c16ed399ced01b273565a2b640130c55c7092747efeff40dbb0348876b18b415f59b0d16dd2c7f32f1798ce2",
+                "murmur2": 1923939184
+            }
+        }
+    }
+}

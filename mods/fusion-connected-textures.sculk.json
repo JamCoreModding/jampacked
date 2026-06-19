@@ -1,0 +1,16 @@
+{
+    "filename": "fusion-1.3.0-neoforge-mc1.21.1.jar",
+    "side": "both",
+    "fileSize": 892561,
+    "sources": {
+        "modrinth": {
+            "projectId": "p19vrgc2",
+            "fileUrl": "https://cdn.modrinth.com/data/p19vrgc2/versions/kSkuN85i/fusion-1.3.0-neoforge-mc1.21.1.jar",
+            "hashes": {
+                "sha1": "166b1fa6ff8b55b3c978a5915ea2dcd7fafa024c",
+                "sha512": "e9042b44cd26cbbe9c11b350e7d2a1de9b0e6d9f505e0ddccd09718c1ad08d6a614542afe14ba69fdd1f79c6e4bb1df4168257aa873f35ed62e3df1ef4049d06",
+                "murmur2": 586457645
+            }
+        }
+    }
+}

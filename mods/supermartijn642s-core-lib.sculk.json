@@ -1,0 +1,16 @@
+{
+    "filename": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+    "side": "both",
+    "fileSize": 558371,
+    "sources": {
+        "modrinth": {
+            "projectId": "rOUBggPv",
+            "fileUrl": "https://cdn.modrinth.com/data/rOUBggPv/versions/hcYSe7v7/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+            "hashes": {
+                "sha1": "84802fbe1645de8caf61ccb07db6cf451e614f68",
+                "sha512": "91e67be718dc288c95e22ba78e54deb75c4f110afddddfbef58480019008d39aaeeb7104fcddfd45a49c5e6ee703b20c1d22c5ad32f63059deef080c7bae4f62",
+                "murmur2": 3414849852
+            }
+        }
+    }
+}

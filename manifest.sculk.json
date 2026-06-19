@@ -291,6 +291,50 @@
         {
             "path": "mods/yungs-better-desert-temples.sculk.json",
             "sha256": "92c6c99f7f9000483e91b90e1041b03aa5b667717ae92594e841794e3093a042"
+        },
+        {
+            "path": "mods/chipped.sculk.json",
+            "sha256": "f39cf5404f6d8e5e1a5693445362c8e1c752d0e908a0b9b44fa6230a9a30a53f"
+        },
+        {
+            "path": "mods/resourceful-lib.sculk.json",
+            "sha256": "3e66158a3a810cbf0a30e367e192de4179792d566a751bf0d9a36db08d918295"
+        },
+        {
+            "path": "mods/athena-ctm.sculk.json",
+            "sha256": "59d613a16bcc6fcf94bae6caabc70e44b049da4010784c62110c57bd811c01c1"
+        },
+        {
+            "path": "mods/towns-and-towers.sculk.json",
+            "sha256": "408404349e4f43cade8ec7bd3048e389607188747ffafbc5eff3e60710804ec1"
+        },
+        {
+            "path": "mods/cristel-lib.sculk.json",
+            "sha256": "97297bae317fb397212ca5b3019726b4dbf322a71cb80e4c525095dc039e43b5"
+        },
+        {
+            "path": "mods/mes-moogs-end-structures.sculk.json",
+            "sha256": "e1cd8091ac5660efdac49df8ebfb45edf5b6718d179994fa17de0222c8e739c8"
+        },
+        {
+            "path": "mods/moogs-structure-lib.sculk.json",
+            "sha256": "1f9e3a831026286e04760ff70652bc43bfc3d0abc08ac9dc2e1b7616bfc62509"
+        },
+        {
+            "path": "mods/rechiseled.sculk.json",
+            "sha256": "a62fccab040ba27b1185d0abfec5d05d532911fff0acfd2d5b7d982734d7af92"
+        },
+        {
+            "path": "mods/supermartijn642s-config-lib.sculk.json",
+            "sha256": "251be332a5e169bc6010a215a516debfbe2e360550144f75eb3418a83e23ec0b"
+        },
+        {
+            "path": "mods/fusion-connected-textures.sculk.json",
+            "sha256": "90f68476685596d642d12e0e85d02b0a7652fa7d8333127c149c0571afec7741"
+        },
+        {
+            "path": "mods/supermartijn642s-core-lib.sculk.json",
+            "sha256": "3615592a75d499eb2e018567364955aaf4c90961790f1d8852cb5796860a549c"
         }
     ],
     "files": [
