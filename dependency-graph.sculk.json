@@ -26,6 +26,9 @@
     "mods/connector.sculk.json": [
         "mods/continuity.sculk.json"
     ],
+    "mods/yungs-api.sculk.json": [
+        "mods/yungs-better-nether-fortresses.sculk.json"
+    ],
     "mods/forgified-fabric-api.sculk.json": [
         "mods/continuity.sculk.json"
     ],

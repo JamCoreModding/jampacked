@@ -251,6 +251,46 @@
         {
             "path": "mods/when-dungeons-arise-seven-seas.sculk.json",
             "sha256": "9fa2545ce2c2e72b9b715b1c89aacdc64d57240c53da93f808483780f7be7119"
+        },
+        {
+            "path": "mods/yungs-better-nether-fortresses.sculk.json",
+            "sha256": "f93fcb4e6d69e06662291b1f405fed2a12b0e9c3d05ef99a07f2efd67bb2da71"
+        },
+        {
+            "path": "mods/yungs-api.sculk.json",
+            "sha256": "8dc042452fc6584e4dc0a2b220a9fbf8c84781fd5b37eaf19d657e53f2b8683a"
+        },
+        {
+            "path": "mods/yungs-better-ocean-monuments.sculk.json",
+            "sha256": "298b2af74c1a5d6700ad4dad7a235ea25b8f235d87d3f9bb09a95a7e7e6adef3"
+        },
+        {
+            "path": "mods/yungs-better-dungeons.sculk.json",
+            "sha256": "4ce8b469c5e53d1db5c714ef8b8e3eb3920909c4f3dedb690d9c8a9f6cf7ef00"
+        },
+        {
+            "path": "mods/yungs-better-jungle-temples.sculk.json",
+            "sha256": "f0455701c6e5d76576c59650fab3d337a7e85488d78f84a5d0aff91adcce15a1"
+        },
+        {
+            "path": "mods/yungs-better-mineshafts.sculk.json",
+            "sha256": "46c65751dc94f2d61ac06a617d8476e2de67fa5c015aac0aa4e4c7b6a3d36e85"
+        },
+        {
+            "path": "mods/yungs-better-end-island.sculk.json",
+            "sha256": "f0e14af0c827f7014f497bb886064b9a96d63b73e82c6d3b0b2f18f083f2629b"
+        },
+        {
+            "path": "mods/yungs-better-strongholds.sculk.json",
+            "sha256": "14f02613b0ef330aed877427b117e57573b0068f88768f419b25c2b2936fa945"
+        },
+        {
+            "path": "mods/yungs-better-witch-huts.sculk.json",
+            "sha256": "f452d213b15215482fa36f05d20c5c939b88f601609cbfab446ab0f238bd64d8"
+        },
+        {
+            "path": "mods/yungs-better-desert-temples.sculk.json",
+            "sha256": "92c6c99f7f9000483e91b90e1041b03aa5b667717ae92594e841794e3093a042"
         }
     ],
     "files": [
