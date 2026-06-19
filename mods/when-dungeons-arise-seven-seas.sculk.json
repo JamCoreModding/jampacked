@@ -1,0 +1,16 @@
+{
+    "filename": "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+    "side": "both",
+    "fileSize": 244981,
+    "sources": {
+        "modrinth": {
+            "projectId": "ZsrrjDbP",
+            "fileUrl": "https://cdn.modrinth.com/data/ZsrrjDbP/versions/erk04BGa/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+            "hashes": {
+                "sha1": "ac9edb266a1360e9e4c80ed0b2f931f1505307eb",
+                "sha512": "14c9a833f85e343561547a5efb44a7f275b4e3fa97294ca36628c54b990a3634fb0df1223a127a02b5bdc5b113dfbfca46d76906b0efa3e797f0622cc14d3b50",
+                "murmur2": 3533465852
+            }
+        }
+    }
+}

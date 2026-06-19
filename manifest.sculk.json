@@ -239,6 +239,18 @@
         {
             "path": "mods/no-chat-restrictions.sculk.json",
             "sha256": "ca19d5358e7476c379cfb5f4da6a858693672021ff9b8b88907d418df73a51ff"
+        },
+        {
+            "path": "mods/quark.sculk.json",
+            "sha256": "6f3eb04aa5bfb36b967bf0bba0bcb1b33b98c44de0889dc2aa3b3b37c345e01d"
+        },
+        {
+            "path": "mods/zeta.sculk.json",
+            "sha256": "fb6dcd298b879d693abcddf5510f2d5221f2b17e970bf71052f394421adb1799"
+        },
+        {
+            "path": "mods/when-dungeons-arise-seven-seas.sculk.json",
+            "sha256": "9fa2545ce2c2e72b9b715b1c89aacdc64d57240c53da93f808483780f7be7119"
         }
     ],
     "files": [
@@ -266,6 +278,11 @@
             "path": "datapacks/when-dungeons-arise-lower-spawnrate.zip",
             "side": "both",
             "sha256": "d25b3e86d6941a22864b78e41d64e46dbab7caa41b2da5b1b2548937e61f629d"
+        },
+        {
+            "path": "config/quark-common.toml",
+            "side": "both",
+            "sha256": "0aa9b43ce19352dfb5c0cf378196a177fa3598805effe5b944029026517db3cd"
         }
     ]
 }
