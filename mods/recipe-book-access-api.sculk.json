@@ -1,0 +1,16 @@
+{
+    "filename": "recipebookaccess-neoforge-mc1.21-1.4.0.jar",
+    "side": "both",
+    "fileSize": 53031,
+    "sources": {
+        "modrinth": {
+            "projectId": "aWgs4SgO",
+            "fileUrl": "https://cdn.modrinth.com/data/aWgs4SgO/versions/vmxGum19/recipebookaccess-neoforge-mc1.21-1.4.0.jar",
+            "hashes": {
+                "sha1": "9b7e33abfa2f59235503f51fcd6bcbbf8cf6ef1a",
+                "sha512": "08676ad2be9aae5b7a2592e149a747a322968b3491a366f346eead198ede662e1b10e93aa5bb6c4d2b25f9ee54694a2237ca0f0b2da1e4ea36b919faf70b79ab",
+                "murmur2": 2308427411
+            }
+        }
+    }
+}

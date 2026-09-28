@@ -1,0 +1,16 @@
+{
+    "filename": "nearbycrafting-neoforge-mc1.21-1.3.0.jar",
+    "side": "both",
+    "fileSize": 258345,
+    "sources": {
+        "modrinth": {
+            "projectId": "DsjH66Cm",
+            "fileUrl": "https://cdn.modrinth.com/data/DsjH66Cm/versions/ngkDkpKz/nearbycrafting-neoforge-mc1.21-1.3.0.jar",
+            "hashes": {
+                "sha1": "3eda40d4ca7a44a06a2a2447aa434ea5877217e6",
+                "sha512": "8082bc605e3bdff53808e3e1237bfbf53b27dbda12298b648e49afcd27fe1eedfa79c2c6fc6fb6c34fbdf42ae7915e3988d24ef4eb7a0653fd6f4d44039fefb4",
+                "murmur2": 2538087019
+            }
+        }
+    }
+}

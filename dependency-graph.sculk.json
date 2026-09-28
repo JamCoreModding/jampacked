@@ -44,6 +44,9 @@
     "mods/zeta.sculk.json": [
         "mods/quark.sculk.json"
     ],
+    "mods/recipe-book-access-api.sculk.json": [
+        "mods/nearby-crafting.sculk.json"
+    ],
     "mods/yacl.sculk.json": [
         "mods/sound.sculk.json"
     ],
